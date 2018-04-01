@@ -30,6 +30,6 @@ Branch info. Refer to checklist started for things to do.
 
 [Firebase](https://firebase.google.com/) - cloud database?
 
-## Examples
+## Play for yourself
 
-[example outputs go here]
+[The app itself!](https://amanuelmehreteab7.github.io/HotMaps/)
